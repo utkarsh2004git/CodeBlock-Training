@@ -1,6 +1,3 @@
-package july_16;
-
-
 public class CallStackCheck {
 
     public static void A(){
